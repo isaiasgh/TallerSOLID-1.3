@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
 package com.mycompany.tallersolid.seccionb;
 
 import Store.Book;
@@ -14,6 +10,7 @@ import Store.Book;
 public class Main {
 
     public static void main(String[] args) {
+        // ignorar, solo es una prueba
         Book b1 = new Book ("La Odisea", 20, 2);
         
         System.out.println("IVA: " + b1.calculateIva());

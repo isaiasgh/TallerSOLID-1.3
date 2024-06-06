@@ -4,7 +4,7 @@ import java.util.List;
 
 /**
  *
- * @author Isaías
+ * @author Grupo 9
  */
 
 public class ShoppingCart {
