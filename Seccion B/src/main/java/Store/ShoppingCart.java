@@ -22,10 +22,5 @@ public class ShoppingCart {
         double total = 0;
         // Lógica para calcular el precio total
         return total;
-    }
-    
-    public void sendReceipt () {
-        System.out.println("Sending receipt by email...");
-        // Lógica para enviar el recibo
-    }
+    }   
 }
